@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! 
+- I'm Alex and i'm interested in learning about how to use GitHub and the basics of quantum chemistry :)
+- My favourite hobby is travelling ✈
+- Pronouns: She/Her
 
 <!--
 **aldersoa1/aldersoa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
